@@ -5,8 +5,8 @@ Using api from openweathermap for data support.
 
 # Requirement
 
---Python 3.8+
---Tkinter library
+--Python 3.8+\\
+--Tkinter library\\
 --Requests, python library
 
 # How to use
